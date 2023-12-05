@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571215431020",
+    "project_id": "restomaster",
+    "storage_bucket": "restomaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571215431020:android:515585615bea877bbe9f49",
+        "android_client_info": {
+          "package_name": "com.u7dotss.restomaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT6fLqFiPtIrL7-03O9ZzqmE69PxIeb34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
